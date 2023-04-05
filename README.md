@@ -1,3 +1,5 @@
+<body style="background-color:white;">
+
 # PROJETO-TAKING-RH
 
 
@@ -14,3 +16,4 @@
 ![image](https://user-images.githubusercontent.com/106749928/230163511-48c5f725-1304-4ade-983d-73e6758bc3cd.png)
 
 
+</body>
