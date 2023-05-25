@@ -1,19 +1,46 @@
-<body style="background-color:white;">
-
-# PROJETO-TAKING-RH
+![logo](https://user-images.githubusercontent.com/104404136/234568173-e2c477bc-d89b-4869-b035-53cfcb9d9479.png) 
 
 
-![image](https://user-images.githubusercontent.com/106749928/230162471-873fb1f4-1e85-424d-a837-890d454282f7.png)
+# Projeto Gestão de currículos - Grupo Taking 
 
-![image](https://user-images.githubusercontent.com/106749928/230162623-d28f6d35-3f1e-4a4c-ba5d-9f3c360901dc.png)
+<p align="center">
+  <a href="#requisitos-para-executar">Requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#autores">Autores</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#techs">Tecnologias</a>
+</p>
 
-![image](https://user-images.githubusercontent.com/106749928/230163030-5b751cbc-96f0-49b1-83c1-ef071996b48a.png)
+## Requisitos para executar
 
-![image](https://user-images.githubusercontent.com/106749928/230163263-7f6713a2-547e-4e9c-8f5f-7f8fb978ecd8.png)
+-   [Java](https://www.oracle.com/java/technologies/javase/jdk19-archive-downloads.html) Instalado e configurado
+-   [Spring Boot](https://start.spring.io/)
+-   Para rodar ambiente de desenvolvimento com Java
+    -   [Eclipse](https://www.eclipse.org/downloads/)
+-   Banco de dados 
+    -   [MySQL 8.0](https://www.mysql.com/downloads/) Instalado e configurado corretamente para sua máquina
 
-![image](https://user-images.githubusercontent.com/106749928/230163391-ac4e0147-f63e-444b-a951-c040e8e3b9e4.png)
 
-![image](https://user-images.githubusercontent.com/106749928/230163511-48c5f725-1304-4ade-983d-73e6758bc3cd.png)
+## Integrantes do grupo :)
+
+-   Giseli
+-   Luciana Oliveira
+-   Laís
+-   Ana
+-   Joyce
+-   Eva
+-   Adriana Pacheco
+-   Jessica Baron
+-   Isabela Riveiro
 
 
-</body>
+
+## Techs
+
+-   [Java](https://www.oracle.com/java/technologies/javase/jdk19-archive-downloads.html)
+-   [Spring Boot](https://start.spring.io/)
+-   [MySQL](https://www.mysql.com/)
+-   [Eclipse](https://www.eclipse.org/downloads/)
+
+
+![1649453520001](https://user-images.githubusercontent.com/104404136/234568270-3ba00698-3cfb-4e9e-8f41-2a766273a483.jpeg)
+
+
